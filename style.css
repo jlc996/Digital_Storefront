@@ -145,6 +145,9 @@ body {
     background-size: cover;
     background-position: center;
     min-height: 60vh;
+    min-height: 60dvh; /* modern fix for mobile browsers */
+    display: flex;
+    align-items: center;
 }
 
 /* Hero heading */
