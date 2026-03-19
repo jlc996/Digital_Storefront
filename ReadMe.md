@@ -9,6 +9,13 @@ This project was created as part of a web development assignment to practice bui
 
 ---
 
+## Live Demo
+
+This project is deployed using GitHub Pages.  
+👉 https://jlc996.github.io/Digital_Storefront/
+
+---
+
 ## Founder
 
 ![Founder of Collab Computers](assets/images/founder.png)
@@ -133,8 +140,9 @@ founder.png
 ## How to Run the Project
 
 1. Download or clone the project files.  
-2. Open the project folder.  
-3. Double-click **index.html** or open it in a web browser.
+2. Download the latest bootstrap zip from https://getbootstrap.com/docs/5.3/getting-started/download/.
+3. Open the project folder.
+4. Double-click **index.html** or open it in a web browser.
 
 Because the website uses static HTML files, **no server setup is required**.
 
