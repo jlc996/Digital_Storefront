@@ -14,7 +14,6 @@ This project was created as part of a web development assignment to practice bui
 This project is deployed using GitHub Pages.  
 👉 https://jlc996.github.io/Digital_Storefront/
 
-
 ---
 
 ## Founder
